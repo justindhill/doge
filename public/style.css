@@ -1,0 +1,21 @@
+#doge-canvas
+{
+	background-color: #e7e7e7;
+	float: left;
+}
+
+.right-container
+{
+	float: left;
+	margin-left: 15px;
+}
+
+.no-top-margin
+{
+	margin-top: 0;
+}
+
+#text-input
+{
+	display: block;
+}
